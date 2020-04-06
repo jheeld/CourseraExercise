@@ -1,4 +1,4 @@
-# CourseraExercise
+# Week3
 For this project, I considered the headquarters building of the company that I work at. It is in San Francisco Bay Area and we own 4 floors of a 15 floor building. We are a tech company and hence everyone has their own laptops as well as separate monitors screens. Bay area is very spread out with not the most efficient transportation and also the city(SF) is very expensive to live in. Hence since nothing is in walking distance, people at work use a combination of driving in and public transport to get to work each day. 
 
 For this exercise I calculated the GHG using Electricity used and Commuting Carbon Footprints. Though I have added a note about waste generated, I have not used it in my model. We also get a lot of food and snacks at work and I have not considered the carbon logistical footprint for each of them since it would make my model very complex.
@@ -34,17 +34,15 @@ Model At Current State:
 
 As explained at the start due to various reasons, commuting is a major GHG emissions producer. But since my workplace has pretty flexible timings and has carbon conscious employees, a wide chunk of people do use public transportation. The major number missing from my analysis is driving by private vehicle to a public transit stop which I know does add up significantly. Even with all the public transit, almost 1/4 can be assumed to drive in. That adds up significantly since on an average that distance is 30-40 miles one way(with traffic it adds even more GHG). Employees should be given incentive to work from home, take public transit or even bike to work.
 
-References:
-
-
-
-https://www.youtube.com/watch?v=wA69zYkiQWM (How to calculate power consumption)
-Average energy a mac needs per hour https://www.geekhampton.com/gh-blog/2017/6/21/sleep-your-mac-more-to-save-time-and-power
-Dell screen https://www.anandtech.com/show/4070/dell-u3011-review-dells-new-30-inch-flagship/8
-Electricity Usage http://energyusecalculator.com/electricity_ledlightbulb.htm
-Elevator Usage  https://slate.com/technology/2009/04/when-people-take-the-elevator-does-earth-get-the-shaft.html
-KWH to GHG converter https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator
-Coffee https://www.texaselectricityexaminer.com/how-much-energy-does-a-coffee-maker-use.html
-Fridge http://energyusecalculator.com/electricity_refrigerator.htm
-Charging phone https://www.forbes.com/sites/christopherhelman/2013/09/07/how-much-energy-does-your-iphone-and-other-devices-use-and-what-to-do-about-it/#70b647212f70
-Bart Saving https://www.bart.gov/guide/carbon
+References
+----------------------------------------------------------------------------------------------------------------------------
+How to calculate power consumption https://www.youtube.com/watch?v=wA69zYkiQWM |
+Average energy a mac needs per hour https://www.geekhampton.com/gh-blog/2017/6/21/sleep-your-mac-more-to-save-time-and-power |
+Dell screen https://www.anandtech.com/show/4070/dell-u3011-review-dells-new-30-inch-flagship/8 |
+Electricity Usage http://energyusecalculator.com/electricity_ledlightbulb.htm |
+Elevator Usage  https://slate.com/technology/2009/04/when-people-take-the-elevator-does-earth-get-the-shaft.html |
+KWH to GHG converter https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator |
+Coffee https://www.texaselectricityexaminer.com/how-much-energy-does-a-coffee-maker-use.html |
+Fridge http://energyusecalculator.com/electricity_refrigerator.htm |
+Charging phone https://www.forbes.com/sites/christopherhelman/2013/09/07/how-much-energy-does-your-iphone-and-other-devices-use-and-what-to-do-about-it/#70b647212f70 |
+Bart Saving https://www.bart.gov/guide/carbon |
