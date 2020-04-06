@@ -37,12 +37,22 @@ As explained at the start due to various reasons, commuting is a major GHG emiss
 References
 ----------------------------------------------------------------------------------------------------------------------------
 How to calculate power consumption https://www.youtube.com/watch?v=wA69zYkiQWM |
+
 Average energy a mac needs per hour https://www.geekhampton.com/gh-blog/2017/6/21/sleep-your-mac-more-to-save-time-and-power |
+
 Dell screen https://www.anandtech.com/show/4070/dell-u3011-review-dells-new-30-inch-flagship/8 |
+
 Electricity Usage http://energyusecalculator.com/electricity_ledlightbulb.htm |
+
 Elevator Usage  https://slate.com/technology/2009/04/when-people-take-the-elevator-does-earth-get-the-shaft.html |
+
 KWH to GHG converter https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator |
+
 Coffee https://www.texaselectricityexaminer.com/how-much-energy-does-a-coffee-maker-use.html |
+
 Fridge http://energyusecalculator.com/electricity_refrigerator.htm |
+
 Charging phone https://www.forbes.com/sites/christopherhelman/2013/09/07/how-much-energy-does-your-iphone-and-other-devices-use-and-what-to-do-about-it/#70b647212f70 |
+
 Bart Saving https://www.bart.gov/guide/carbon |
+
