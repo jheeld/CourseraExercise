@@ -20,12 +20,18 @@ Model At Current State:
 ![alt text](https://github.com/jheeld/CourseraExercise/blob/master/Screen%20Shot%202020-04-05%20at%206.35.18%20PM.png)
 
 
-Assumptions for Commuting :
+For electricity GHG, I have considered number of people, floors, laptops, monitors, lights, coffee, fridge and other applicances for the model.
+
+As we can see from the model, the highest contributor for electricity GHG is not laptops itself but monitor displays which is essential for most programming jobs. These are also very less energy effecient, at the same time employees are encouraged to have multiple screens. They are contributing to 45% of the kHW. The best way to reduce it will be to use energy effecient and cap the number of monitors allocated to each employee. Its good to have but not necessary. Next big contributor is light. That is easy to divide by 1/3 by switching to LEDs. 
+
+Assumptions for Commuting Model :
 1. To Accounting For Public Transit the effects of shared usage we half the values. It should actually be lower.
 2. Taken a random end point which is potentially average emissions
 3. Not Accounted for Multi Modal Way of Transport to reduce model complexity
 
-
 Model At Current State: 
 ![alt text](https://github.com/jheeld/CourseraExercise/blob/master/Screen%20Shot%202020-04-05%20at%206.37.29%20PM.png)
 
+As explained at the start due to various reasons, commuting is a major GHG emissions producer. But since my workplace has pretty flexible timings and has carbon conscious employees, a wide chunk of people do use public transportation. The major number missing from my analysis is driving by private vehicle to a public transit stop which I know does add up significantly. Even with all the public transit, almost 1/4 can be assumed to drive in. That adds up significantly since on an average that distance is 30-40 miles one way(with traffic it adds even more GHG). Employees should be given incentive to work from home, take public transit or even bike to work.
+
+References:
